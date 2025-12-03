@@ -26,7 +26,7 @@
 - Selenium
 ---
 📂 프로젝트 구조
-
+```
 AIwebservice/
 ├─ dataset/ — 크롤링된 양주 이미지 및 데이터
 ├─ model/ — 학습된 모델 및 weight 파일
@@ -34,6 +34,7 @@ AIwebservice/
 ├─ train.py — 모델 학습 스크립트
 ├─ predict.py — 이미지 예측 스크립트
 └─ README.md — 프로젝트 문서
+```
 ---
 📊 모델 개발 과정 요약
 - Selenium으로 다양한 양주 이미지 크롤링
